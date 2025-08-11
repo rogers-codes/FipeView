@@ -1,0 +1,1 @@
+FipeView é uma aplicação desenvolvida em Java com Spring e Maven, que consome a API oficial da Tabela FIPE para veículos. O sistema aprimora os dados obtidos, oferecendo ao usuário uma experiência simplificada e intuitiva para pesquisar e encontrar rapidamente informações sobre o veículo desejado, facilitando o processo de compra.
