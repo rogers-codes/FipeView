@@ -15,4 +15,3 @@ O **FipeView** é uma aplicação Java com Spring Boot e Maven que consome a API
 - **Jackson** (para manipulação de JSON)
 - **API Tabela FIPE**
 
-## 📦 Estrutura do Projeto
